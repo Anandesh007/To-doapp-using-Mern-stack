@@ -22,5 +22,3 @@ Built for practice with **MongoDB, Express, React, Node.js, JWT, and bcrypt**.
 - **Authentication:** JWT + bcrypt  
 
 ---
-
-## 📂 Project Structure
